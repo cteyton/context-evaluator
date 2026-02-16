@@ -1,0 +1,35 @@
+{
+  "name": "context-evaluator",
+  "dependencies": {
+    "tessl/npm-commander": {
+      "version": "14.0.0"
+    },
+    "tessl/npm-diff": {
+      "version": "7.0.0"
+    },
+    "tessl/npm-react": {
+      "version": "18.3.0"
+    },
+    "tessl/npm-react-dom": {
+      "version": "18.3.0"
+    },
+    "tessl/npm-react-markdown": {
+      "version": "10.1.0"
+    },
+    "tessl/npm-remark-gfm": {
+      "version": "4.0.0"
+    },
+    "tessl/npm-husky": {
+      "version": "9.1.0"
+    },
+    "tessl/npm-postcss": {
+      "version": "8.5.0"
+    },
+    "tessl/npm-tailwindcss": {
+      "version": "3.4.0"
+    },
+    "tessl/npm-typescript": {
+      "version": "5.9.1"
+    }
+  }
+}
